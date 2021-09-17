@@ -10,12 +10,7 @@ click the characters to spawn them
 # how to play
 https://dbshorts.github.io/madness-combat-scratch
 # New update!
--Now widescreen!
--Added actual background.
--Added health and ammo.
--Added randomly spawning weapons, ammo boxes, and healing
--Added Agents that spawn in groups of up to 4
--Tricky can rarely spawn in, and is the strongest character in the game
--Grunts are stronger than Agents and 1 spawns in every few seconds
--You now play as Hank
--You can no longer spawn weapons out of thin air by pressing 2 and 3, and you can press Q to drop (delete) weapons.
+-Added Knife
+-Added sound effects
+-Tweaked spawn rates for Tricky
+-more probably that i forgot about since adding
